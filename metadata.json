@@ -1,0 +1,6 @@
+{
+  "name": "Manage the Family",
+  "description": "A high-converting family management SaaS platform featuring shared calendars, task managers, and expense tracking tailored for modern families.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
